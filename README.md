@@ -66,6 +66,8 @@ Vom discuta lucruri care sunt compatibile cu ce se întâmplă (sau ar trebui s�
 
 Sesiunile vor fi transmise live la adresa https://www.twitch.tv/cdinu cu orarul pe care îl voi comunica din timp.
 
+Nivelul la care mă voi adresa cu explicațiile este jos-mediu. Nu pregătim olimpici, nu e lot național de nimic. Cu cei avansați putem să discutăm alte subiecte în sesiunile de întrebări și răspunsuri.
+
 Iau în calcul și posibilitatea de crea arhive pe YouTube, dar cei care se uită la reluări nu au cum să interacționeze cu mine sau cu ceilalți.
 
 ### Cât durează?
