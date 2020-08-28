@@ -76,7 +76,7 @@ Proiectul: Cât mai mult, aș vrea. Software-ul este un univers atât de vast î
 
 Păi nu-i înlocuiesc pe profi, îi ajut.
 
-Elevii cu profesori buni vor vedea o altă perspectivă. Pentru cei cu profesori nașpa (incompetenți, plictisiți) arunc un colac de salvare.
+Elevii care sunt mulțumiți cu profesorii pe care îi au la școală vor vedea o altă perspectivă. Pentru cei care nu sunt mulțumiți, pot oferi un sprijin posibil, astfel încât să nu se îndepărteze de informatică din motivul unei nepotriviri temporare, din variate motive, cu profesorul de la școală. 
 
 ### De ce crezi că ești mai bun tu decât ei?
 
