@@ -35,7 +35,7 @@ Revenind, programele sunt o serie de instrucțiuni date calculatorului pentru re
 
 Dar de început am început la fel -- calculând divizori comuni și căutând ieșiri din labirinturi virtuale folosind algoritmi pe care așa i-am învățat.
 
-* Ce este acela un limbaj de programare, de ce este nevoie de el
+## Ce este acela un limbaj de programare, de ce este nevoie de el
 
 Primul exemplu este că sunteți pe terenul de baschet, unde jucați cu prietenii și fratele vostru mai mic zice că vrea să joace și el. Vă dați seama că așa cum este acum nu poate să joace, așa că îi ziceți:
 
