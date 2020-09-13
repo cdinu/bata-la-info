@@ -82,7 +82,7 @@ Declarația unei funcții este diferită de execuția unei funcții. Declarația
 
 O funcție este definită (liniile 3-7). Definiția unei funcții este ca o rețetă de prăjitură. Pe rețetă ai ce instrucțiuni trebuie să pui în aplicare ca să întorci valoarea "prăjitură". Nu rețeta îți dă prăjitura. Rețeta definește ce trebuie să faci. Ai prăjitura atunci când execuți rețeta. Când o apelezi.
 
-## Linia 4 - `{`
+### Linia 4 - `{`
 
 Acoladele sunt folosite în C++ pentru a grupa instrucțiuni. În cazul nostru grupează instrucțiunile de la liniile 5 și 6, adică ceea ce numim _corpul_ (_body_) funcției. Acolada deschisă înseamnă deci "aici începe un bloc de instrucțiuni, care se termină cu acoladă închisă".
 
@@ -126,8 +126,15 @@ Live Demo. Scriu linia care îl compilează. Explic cum în CodeBlocks acest luc
 
 Live demo, browser, îi pun să-și încarce CodeBlocks pe Windows. Ceilalți, repl.it
 
+## Sumar
+
+* Folosim `std:cout` pentru a afișa lucruri pe ecran
+* Trebuie să includem `iostream` dacă dorim să folosim `std::cout`.
+* Execuția codului (a programului) începe de la funcția `main()`. Funcția `main()` este obligatorie.
+
 ## Extra
 
+* Un program C care nu face nimic
 * Mai multe linii cout
 * Definirea unei alte funcții care nu ia niciun parametru, dar grupează liniile de cout de mai sus
 * [anticipăm] adăugarea unui parametru la funcție. Facem fizzbuzz.
