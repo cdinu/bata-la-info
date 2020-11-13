@@ -1,6 +1,12 @@
 
 # (un fel de) Manifest
 
+**Notă**
+
+Puteți vedea majoritatea sesiunilor la: https://www.youtube.com/channel/UCmIeH-QQInN__mdcWSsYNyA (subscribe la canal pentru a fi notificați când mai adaug lucruri noi).
+
+Proiectul este momentan în pauză nedeterminată (mai multe detalii aici: https://www.educatieprivata.ro/cum-nu-am-reusit-cu-twitch/)
+
 ## Meditații la informatică
 
 Voi organiza un fel de meditații pro-bono (gratis) la Informatică, deschise tuturor. Mediul de predare este sesiunea transmisă în direct pe Twitch (un fel de YouTube, dar live) în care eu am audio, video, ecran și chat, iar participanții au chat și pot să-mi scrie, iar eu să răspund.
